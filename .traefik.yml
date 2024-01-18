@@ -1,0 +1,11 @@
+displayName: plugin-example
+
+type: middleware
+
+import: https://github.com/IrshadEyvazov/go-traefik-plugin-example
+summary: Demo plugin for traefik
+
+experimental:
+  localPlugins:
+    example:
+      moduleName: example.com/traefik-plugin
