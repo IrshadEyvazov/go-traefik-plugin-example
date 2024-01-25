@@ -1,3 +1,3 @@
-module example.com/traefik-plugin
+module github.com/IrshadEyvazov/go-traefik-plugin-example
 
 go 1.20
