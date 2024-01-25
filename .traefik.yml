@@ -8,4 +8,4 @@ summary: Demo plugin for traefik
 experimental:
   localPlugins:
     example:
-      moduleName: example.com/traefik-plugin
+      moduleName: github.com/IrshadEyvazov/go-traefik-plugin-example
