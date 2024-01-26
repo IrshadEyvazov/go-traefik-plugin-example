@@ -1,1 +1,1 @@
-#Demo Plugin
+#Traefik example plugin
